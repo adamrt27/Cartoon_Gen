@@ -1,4 +1,4 @@
-# GAN_Proj
+# VAE_Proj
 
 Final Project, where we used a VAE (and a GAN as a baseline) to generate cartoon images.
 
